@@ -1,6 +1,0 @@
-[submodule "www/css"]
-	path = www/css
-	url = https://github.com/tovmariupol/testlab-mdt-css.git
-[submodule "www/js"]
-	path = www/js
-	url = https://github.com/tovmariupol/testlab-mdt-js.git
